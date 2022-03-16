@@ -1,0 +1,97 @@
+h1{
+    font-size: 90px;
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+    font-style: italic;
+    font-synthesis: style; 
+    text-transform: uppercase;
+    text-shadow: 5px 0 0 palevioletred;
+    font-family: "kanit",serif;
+    background: url(./asset/arriiere\ plan.jpg);
+ }
+ h2{
+    font-size: 40px;
+    color: rgb(165, 28, 168);
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px; display: block;
+ }
+ h3{
+    font-size: 40pt;
+    color: rgb(165, 28, 168);
+    font-weight: bold;
+    text-align: center;
+    
+ }
+ p{
+    font-size: 25px;
+    color: rgb(245, 240, 241);
+    font-weight: bold;
+    text-align: justify;
+    
+ }
+ ul{
+    font-size: 30pt;
+    color: rgb(165, 28, 168);
+    font-weight: bold;
+    text-align: center; 
+ }
+ .image{
+    text-align: center;
+    list-style-type: none;
+ }
+ 
+ body{
+    font-family: "font-1", serif;
+    background: url(./asset/paysage.jpg);
+ }
+ ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+ }
+ header ul li a{
+    display: block;
+    float: left;
+    text-align: center;
+    padding: 20px;
+    border: 10px;
+    list-style-type: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 1px;
+ }
+ ul li:hover{
+    color: black;
+    background: url(./asset/paysage.jpg);
+    font-weight: 16px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding: 30px;
+ }
+ #il{
+    font-weight: bold;
+    padding: 20px 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+ }
+ footer{font-size: 40px;
+ text-align: center;
+ color:black;
+ margin-top: 220px;
+ margin-bottom: 0px;
+ }
+ header{
+    width: 100%;
+ }
+ h2 ul li a{
+    float: left;
+    text-align: center;
+    padding: 20px;
+    border: 10px;
+    list-style-type: none;
+    margin-top: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+ }
